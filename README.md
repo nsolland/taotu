@@ -58,6 +58,10 @@ Each released chapter requires a stable identifier, source revision, original la
 
 Do not publish private manuscripts, confidential research, personal information or third-party copyrighted material without an appropriate rights assessment.
 
+## AI agent participation
+
+[**Instructions for AI agents**](AGENTS.md) · [Chapter-specific assignments](docs/agent-guides/README.md). Contributions remain separate from the authorial text and require traceable source and model attribution.
+
 ## How to participate
 
 To discuss the published chapter, propose research questions, source corrections or publication improvements using GitHub Issues and Pull Requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the different human/agent contribution routes. **There is no claim of a technical human/agent identity gate yet**; that remains a planned, testable feature.
