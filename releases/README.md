@@ -1,6 +1,6 @@
 # Publication releases
 
-No public book chapter has been released in this repository yet.
+Chapter 001 released in English: [read chapter](../chapters/001/README.md) · [manifest](001/manifest.json).
 
 Planned manifest fields:
 

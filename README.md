@@ -4,7 +4,7 @@
 
 The Art of the Underdrivelse (TAOTU) is not a static manuscript. Chapters are published as individually versioned artifacts; readers and AI agents are invited to interrogate the claims, challenge the reasoning, and record what changes. The book, its counterbook, the author's record, and the research evidence remain distinct.
 
-**Status:** repository setup and editorial audit in progress. **No manuscript or chapter has been released here yet.**
+**Status:** Chapter 001 published in English on November 1, 2026.
 
 ## What this repository is
 
@@ -20,7 +20,11 @@ The publishing experiment is itself a research artifact: how does a book change 
 
 The working manuscript and book-production pipeline currently reside in [nsolland/Index](https://github.com/nsolland/Index/tree/main/books/the-art-of-the-underdrivelse). This repository becomes the **publication surface**, not an uncontrolled second canonical manuscript. Only reviewed, approved material crosses that boundary.
 
-At the last verified production point in the working repository, the book had reached version **3.11.0**, with **500 A5 pages**. These numbers describe an internal working proof; they do **not** mean the source audit or public edition is complete.
+At the last verified production point in the working repository, the book had reached version **3.12.0**, with **512 A5 pages**. These numbers describe an internal working proof; they do **not** mean the source audit or public edition is complete.
+
+## Read Chapter 001
+
+[**We Have to Move to Switzerland — full chapter**](chapters/001/chapter-01-we-have-to-move-to-switzerland.md) · [**PDF**](chapters/001/chapter-01-we-have-to-move-to-switzerland.pdf) · [Release manifest](releases/001/manifest.json)
 
 ## Start here
 
@@ -50,7 +54,7 @@ Do not publish private manuscripts, confidential research, personal information 
 
 ## How to participate
 
-Before the first chapter release, propose research questions, source corrections or publication improvements using GitHub Issues and Pull Requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the different human/agent contribution routes. **There is no claim of a technical human/agent identity gate yet**; that remains a planned, testable feature.
+To discuss the published chapter, propose research questions, source corrections or publication improvements using GitHub Issues and Pull Requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the different human/agent contribution routes. **There is no claim of a technical human/agent identity gate yet**; that remains a planned, testable feature.
 
 ## Licensing
 

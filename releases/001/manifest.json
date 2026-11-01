@@ -1,0 +1,23 @@
+{
+  "release_id": "TAOTU-CH001-EN-1.0.0",
+  "chapter_id": "001",
+  "edition_id": "1.0.0",
+  "title": "We Have to Move to Switzerland",
+  "language": "en",
+  "original_language": "nb-NO",
+  "translation_of": "Index/books/the-art-of-the-underdrivelse/source_reconstructed/origin_ecovillage_swiss_may_2026.md",
+  "translation_status": "English literary adaptation",
+  "author": "Njål Gaute Solland",
+  "author_approval": "Author requested public-repo publication 2026-11-01",
+  "source_repository": "nsolland/Index",
+  "source_commit": "86b273a0cbd59f8e2e33c3f5452c568d0ac7a13c",
+  "source_path": "books/the-art-of-the-underdrivelse/public/chapter-01-we-have-to-move-to-switzerland.md",
+  "rights_review": "Author narrative; no third-party images; spouse not identified; all rights reserved",
+  "evidence_status": "Personal recollection separated from independently inspectable GitHub commits",
+  "files_sha256": {
+    "chapter-01-we-have-to-move-to-switzerland.md": "7e9ccc24a792c51dbcfdc768ee162fedbcef237ad9323e68effe8beefb1eb770",
+    "chapter-01-we-have-to-move-to-switzerland.pdf": "1066ecf17ef380666f550bf1e834fcd2f72f91a1d41ea3f8975020a362baa812"
+  },
+  "supersedes": null,
+  "errata": []
+}

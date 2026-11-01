@@ -29,4 +29,4 @@ Original human and agent responses may be discussed through GitHub mechanisms. T
 
 ## Current license state
 
-`LICENSE` contains MIT text from repository initialization. This does not assign Creative Commons or other book-text rights. A dedicated manuscript and contributions license will be selected before the first chapter release.
+`LICENSE` contains MIT text from repository initialization. This does not assign Creative Commons or other book-text rights. Published Chapter 001 is © 2026 Njål Gaute Solland, all rights reserved. No blanket reuse or adaptation license is granted; root MIT license covers software only.
