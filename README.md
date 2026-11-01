@@ -26,6 +26,12 @@ At the last verified production point in the working repository, the book had re
 
 [**We Have to Move to Switzerland — full chapter**](chapters/001/chapter-01-we-have-to-move-to-switzerland.md) · [**PDF**](chapters/001/chapter-01-we-have-to-move-to-switzerland.pdf) · [Release manifest](releases/001/manifest.json)
 
+## Why this is public and multilingual
+
+[**Read the publishing experiment: where, how and why**](docs/WHY_WE_PUBLISH_HERE.md)
+
+[Chapter 002: This May Be Relevant (English / Norwegian)](chapters/002/README.md) · [Chapter 003: The Njål Scale (English / Norwegian)](chapters/003/README.md)
+
 ## Start here
 
 - [Editorial and technical plan](docs/PLAN.md)

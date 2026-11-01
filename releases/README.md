@@ -11,3 +11,6 @@ Planned manifest fields:
 - `supersedes` and `errata` references.
 
 A release links to a fixed chapter revision. Retrospective rewriting is prohibited: issue a successor edition.
+
+Chapter 002: [English and Norwegian](../chapters/002/README.md) · [manifest](002/manifest.json).
+Chapter 003: [English and Norwegian](../chapters/003/README.md) · [manifest](003/manifest.json).

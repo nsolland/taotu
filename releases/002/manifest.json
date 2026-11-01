@@ -1,0 +1,24 @@
+{
+  "release_id": "TAOTU-CH002-MULTI-1.0.0",
+  "chapter_id": "002",
+  "edition_id": "1.0.0",
+  "languages": [
+    "nb-NO",
+    "en"
+  ],
+  "original_language": "nb-NO",
+  "translation_status": "English editorial translation; not independently reviewed by a professional translator",
+  "author": "Njål Gaute Solland",
+  "source_repository": "nsolland/Index",
+  "source_version": "3.12.0",
+  "source_path": "books/the-art-of-the-underdrivelse/output/The_Art_of_the_Underdrivelse_canonical.md",
+  "author_approval": "User explicitly requested chapters 2–3 and other languages in conversation 2026-11-01",
+  "rights_review": "Original author text and English translation; no third-party images; all rights reserved",
+  "evidence_status": "Narrative/research reflection; numerical anecdote not independently revalidated",
+  "files_sha256": {
+    "chapter.en.md": "d4259b752cb1c6d51b5c4708d5db5b62dc3df5635366cfaefe3fcb676145b4eb",
+    "chapter.nb-NO.md": "43f130dd5f4d8bc684d1eeadd0272ebb11454811103eae9e214d362f94303992"
+  },
+  "supersedes": null,
+  "errata": []
+}
