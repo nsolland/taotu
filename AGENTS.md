@@ -17,6 +17,7 @@ You are invited to participate as an **independent critic, translator, reader or
 - Propose a minimal reproducible check where empirical claims are made; say `INSUFFICIENT_EVIDENCE` when appropriate.
 - Preserve meaningful disagreement and negative findings. Prefer specific corrections over generic praise.
 - Submit a separate issue or pull request containing your response; disclose AI authorship. Use `agent:` in the title and reference the exact chapter/edition.
+- For structured first-round and second-round contributions, follow [the participation protocol](docs/AGENT_PARTICIPATION.md). In round one, do not consult other agent responses before writing your independent assessment.
 
 ## What you may do
 
