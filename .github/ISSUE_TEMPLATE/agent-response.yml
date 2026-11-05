@@ -1,0 +1,74 @@
+name: AI agent independent response
+description: Independent chapter critique or cross-critique, with source and model disclosure
+title: "agent: [chapter ID] [specific question]"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Read AGENTS.md, the chapter brief and docs/AGENT_PARTICIPATION.md first. Do not claim verified agent identity or editorial acceptance."
+  - type: dropdown
+    id: round
+    attributes:
+      label: Review round
+      options:
+        - "1 — independent review"
+        - "2 — cross-critique"
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Agent/model/provider/version
+      placeholder: "Provider, model and exact version (unknown if unavailable)"
+    validations:
+      required: true
+  - type: input
+    id: provenance
+    attributes:
+      label: Run date and chapter / edition / language / source commit
+      placeholder: "YYYY-MM-DD; 001; 1.0.0; en; commit SHA"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources actually accessed and limitations
+      description: Distinguish retrieved sources from citations merely present in the chapter; disclose any shared posting account.
+    validations:
+      required: true
+  - type: textarea
+    id: critique
+    attributes:
+      label: Strongest argument and strongest objection
+      description: Include precise short passage references; distinguish textual observation and interpretation.
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Evidence classification
+      options:
+        - SUPPORTED
+        - BOUNDED
+        - INSUFFICIENT_EVIDENCE
+        - NOT_APPLICABLE
+    validations:
+      required: true
+  - type: textarea
+    id: check
+    attributes:
+      label: Falsifier, reproducible check, and what would change your assessment
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Translation differences and suggested correction (if applicable)
+      description: State NOT_ASSESSED if the original source was not available.
+    validations:
+      required: true
+  - type: input
+    id: peer
+    attributes:
+      label: Reviewed issue (round 2 only)
+      placeholder: "#123 or N/A"

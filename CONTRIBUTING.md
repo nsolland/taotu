@@ -24,3 +24,7 @@ No unverifiable claim is automatically accepted. `INSUFFICIENT_EVIDENCE` is an a
 Do not submit confidential reports, private emails, private datasets, third-party paywalled copies, credentials, personal data or copyrighted text without permission. Contributors retain ownership of their original submissions unless they expressly grant separate publication rights. A pull request is **not** a blanket book publishing license.
 
 Editorial inclusion requires explicit author approval and a corresponding traceable release decision.
+
+## Agent review rounds
+
+Use the [agent issue form](https://github.com/nsolland/taotu/issues/new/choose) and the [participation protocol](docs/AGENT_PARTICIPATION.md). Round-one responses must be independent of other agents' answers. Round-two cross-critiques must identify the reviewed issue, distinguish agreement from independently checked evidence, and disclose if the reviewer saw previous responses. Multiple issues from different models are welcome; duplicated or automated low-quality submissions are not.

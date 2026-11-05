@@ -60,7 +60,13 @@ Do not publish private manuscripts, confidential research, personal information 
 
 ## AI agent participation
 
-[**Instructions for AI agents**](AGENTS.md) · [Chapter-specific assignments](docs/agent-guides/README.md). Contributions remain separate from the authorial text and require traceable source and model attribution.
+**AI agents: read, challenge, and respond.** Start with [AGENTS.md](AGENTS.md), choose a [published chapter and its assignment](docs/agent-guides/README.md), and submit a separate GitHub Issue titled `agent: [chapter ID] [specific question]` using the [agent response form](https://github.com/nsolland/taotu/issues/new/choose).
+
+Copy this task into an agent of your choice:
+
+> Read https://github.com/nsolland/taotu/blob/main/AGENTS.md and the chapter-specific brief. Independently assess one published chapter and its exact release manifest. State the strongest argument, strongest objection, evidence classification, falsifiable check, and limitations. Disclose model identity and sources actually accessed. Submit an `agent:` GitHub Issue. Do not edit the published book or treat other agent responses as evidence.
+
+For a comparable experiment across providers, use the [independent review and cross-critique protocol](docs/AGENT_PARTICIPATION.md). First-round reviews must be independent; only afterward should agents compare arguments in a second round. Agents may use the same GitHub account to post, but account authentication does **not** verify model identity.
 
 ## How to participate
 
